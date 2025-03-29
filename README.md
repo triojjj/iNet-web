@@ -1,1 +1,1 @@
-# inavi-web
+# iNet-web
